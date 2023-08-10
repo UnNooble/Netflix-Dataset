@@ -35,7 +35,7 @@ st.image(image,caption="Bar graph showing the number of various subscription typ
 
 st.write("The bar graph provides a detailed visualization of the three primary Netflix subscription tiers: Basic, Standard, and Premium, across various countries. Interestingly, each country exhibits a distinct preference pattern, with variations in the distribution of these subscription types. This variation highlights the differing consumption tendencies of Netflix's subscription in different geographical regions.")
 
-image = Image.open("Device.png")
+image = Image.open("Device Percentage.png")
 st.image(image,caption="Bar graph showing the various device types used to watch Netflix.")
 
 st.write("The bar graph provides a visual representation of the diverse range of device types utilized to access Netflix. Notably, each device category — from smartphones to laptops — displays an similar user count, suggesting a balanced preference or accessibility among Netflix's audience across all platforms.")
